@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Schadokar's github stats](https://github-readme-stats.schadokar.vercel.app/api?username=schadokar)](https://github.com/schadokar/github-readme-stats)
+
 <!--
 **schadokar/schadokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
