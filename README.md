@@ -63,7 +63,6 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 </details>
 
