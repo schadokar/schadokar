@@ -52,8 +52,6 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 <br />
 <br />
 
----
-
 <details>
   <summary>⚡ Github Stats</summary>
 
