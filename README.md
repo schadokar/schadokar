@@ -52,8 +52,12 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 <br />
 <br />
 
-<img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />
+<img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />   
 
+<br />
+<br />
+  
+  
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
