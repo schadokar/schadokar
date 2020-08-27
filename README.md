@@ -52,12 +52,7 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 <br />
 <br />
 
-<details>
-  <summary>⚡ Github Stats</summary>
-
-  <img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />
 
 [website]: https://schadokar.dev
 [twitter]: https://twitter.com/schadokar1
