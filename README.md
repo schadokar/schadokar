@@ -52,12 +52,7 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 <br />
 <br />
 
-<img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />   
 
-<br />
-<br />
-  
-  
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -67,10 +62,13 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 3. ❗️ Opened issue [#1](https://github.com//StephenGrider/git-branch-zip/issues/1) in [StephenGrider/git-branch-zip](https://github.com//StephenGrider/git-branch-zip)
 4. ❗️ Opened issue [#96](https://github.com//cntrump/hugo-notepadium/issues/96) in [cntrump/hugo-notepadium](https://github.com//cntrump/hugo-notepadium)
 <!--END_SECTION:activity-->
-
-
 </details>
 
+<img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />   
+
+<br />
+<br />
+  
 [website]: https://schadokar.dev
 [twitter]: https://twitter.com/schadokar1
 [linkedin]: https://linkedin.com/in/schadokar
