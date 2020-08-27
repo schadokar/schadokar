@@ -20,7 +20,7 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 - [Create your first Serverless application in Nodejs with AWS](https://schadokar.dev/posts/create-your-first-serverless-application/)
 - [Secure Your Api Using Jwt in Golang](https://schadokar.dev/posts/secure-your-api-using-jwt-in-golang/)
 - [Create a Color Cli in Golang](https://schadokar.dev/posts/create-a-color-cli-in-golang/)
-<!-- BLOG-POST-LIST:END -->
+
 
 ➡️ [more blog posts...](https://schadokar.dev)
 
