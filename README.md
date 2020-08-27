@@ -10,7 +10,6 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 - 🤔 I’m looking for help with Golang project structure.
 - 💬 Ask me about blog writing.
 - 📫 How to reach me: Check the Connect with me section.
-- ⚡ Fun fact:
 
 ### 📕 Latest Blog Posts
 
@@ -20,7 +19,6 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 - [Create your first Serverless application in Nodejs with AWS](https://schadokar.dev/posts/create-your-first-serverless-application/)
 - [Secure Your Api Using Jwt in Golang](https://schadokar.dev/posts/secure-your-api-using-jwt-in-golang/)
 - [Create a Color Cli in Golang](https://schadokar.dev/posts/create-a-color-cli-in-golang/)
-
 
 ➡️ [more blog posts...](https://schadokar.dev)
 
@@ -52,7 +50,6 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 <br />
 <br />
 
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -64,7 +61,9 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 <!--END_SECTION:activity-->
 </details>
 
-<img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />   
+<br />
+
+<img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />
 
 <br />
 <br />
