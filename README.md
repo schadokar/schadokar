@@ -2,7 +2,7 @@
 
 I am in the Software industry for 4+ years. I love to document all my learnings as articles and tutorials in [my blog](https://schadokar.dev).  
 I majorly write on Golang and Nodejs.
-Recently, I wrote an ebook on Hyperledger Composer. It is free and available in the PDF format. Go have [a look at it](https://schadokar.dev/ebooks/). 
+Recently, I wrote an ebook on Hyperledger Composer. It is free and available in the PDF format. Go have [a look at it](https://schadokar.dev/ebooks/).
 
 - 🔭 I’m currently working on Serverless to write blogs.
 - 🌱 I’m currently learning serverless and data structures.
@@ -53,6 +53,15 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 <br />
 
 <img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
 
 [website]: https://schadokar.dev
 [twitter]: https://twitter.com/schadokar1
