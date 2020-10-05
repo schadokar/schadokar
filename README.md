@@ -54,10 +54,10 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11888](https://github.com/solana-labs/solana/issues/11888) in [solana-labs/solana](https://github.com/solana-labs/solana)
-2. ❗️ Opened issue [#4647](https://github.com/zcash/zcash/issues/4647) in [zcash/zcash](https://github.com/zcash/zcash)
-3. ❗️ Opened issue [#75](https://github.com/ognus/wallet-address-validator/issues/75) in [ognus/wallet-address-validator](https://github.com/ognus/wallet-address-validator)
-4. ❗️ Opened issue [#1](https://github.com//StephenGrider/git-branch-zip/issues/1) in [StephenGrider/git-branch-zip](https://github.com//StephenGrider/git-branch-zip)
+1. 💪 Opened PR [#550](https://github.com/mde/ejs/pull/550) in [mde/ejs](https://github.com/mde/ejs)
+2. ❗️ Closed issue [#75](https://github.com/ognus/wallet-address-validator/issues/75) in [ognus/wallet-address-validator](https://github.com/ognus/wallet-address-validator)
+3. 🗣 Commented on [#75](https://github.com/ognus/wallet-address-validator/issues/75) in [ognus/wallet-address-validator](https://github.com/ognus/wallet-address-validator)
+4. ❗️ Opened issue [#11888](https://github.com/solana-labs/solana/issues/11888) in [solana-labs/solana](https://github.com/solana-labs/solana)
 <!--END_SECTION:activity-->
 </details>
 
