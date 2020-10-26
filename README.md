@@ -54,10 +54,10 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#318](https://github.com/paritytech/substrate-api-sidecar/issues/318) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
-2. 💪 Opened PR [#550](https://github.com/mde/ejs/pull/550) in [mde/ejs](https://github.com/mde/ejs)
-3. ❗️ Closed issue [#75](https://github.com/ognus/wallet-address-validator/issues/75) in [ognus/wallet-address-validator](https://github.com/ognus/wallet-address-validator)
-4. 🗣 Commented on [#75](https://github.com/ognus/wallet-address-validator/issues/75) in [ognus/wallet-address-validator](https://github.com/ognus/wallet-address-validator)
+1. ❗️ Closed issue [#2755](https://github.com/polkadot-js/api/issues/2755) in [polkadot-js/api](https://github.com/polkadot-js/api)
+2. 🗣 Commented on [#2755](https://github.com/polkadot-js/api/issues/2755) in [polkadot-js/api](https://github.com/polkadot-js/api)
+3. 🗣 Commented on [#2755](https://github.com/polkadot-js/api/issues/2755) in [polkadot-js/api](https://github.com/polkadot-js/api)
+4. ❗️ Opened issue [#2755](https://github.com/polkadot-js/api/issues/2755) in [polkadot-js/api](https://github.com/polkadot-js/api)
 <!--END_SECTION:activity-->
 </details>
 
