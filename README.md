@@ -54,10 +54,10 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/schadokar/etherscan-react/issues/1) in [schadokar/etherscan-react](https://github.com/schadokar/etherscan-react)
-2. ❗️ Closed issue [#318](https://github.com/paritytech/substrate-api-sidecar/issues/318) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
-3. 🗣 Commented on [#318](https://github.com/paritytech/substrate-api-sidecar/issues/318) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
-4. ❗️ Reopened issue [#1](https://github.com/schadokar/etherscan-react/issues/1) in [schadokar/etherscan-react](https://github.com/schadokar/etherscan-react)
+1. ❗️ Closed issue [#359](https://github.com/paritytech/substrate-api-sidecar/issues/359) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
+2. 🗣 Commented on [#359](https://github.com/paritytech/substrate-api-sidecar/issues/359) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
+3. ❗️ Opened issue [#359](https://github.com/paritytech/substrate-api-sidecar/issues/359) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
+4. ❗️ Closed issue [#1](https://github.com/schadokar/etherscan-react/issues/1) in [schadokar/etherscan-react](https://github.com/schadokar/etherscan-react)
 <!--END_SECTION:activity-->
 </details>
 
