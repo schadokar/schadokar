@@ -54,10 +54,10 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#359](https://github.com/paritytech/substrate-api-sidecar/issues/359) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
-2. 🗣 Commented on [#359](https://github.com/paritytech/substrate-api-sidecar/issues/359) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
-3. ❗️ Opened issue [#359](https://github.com/paritytech/substrate-api-sidecar/issues/359) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
-4. ❗️ Closed issue [#1](https://github.com/schadokar/etherscan-react/issues/1) in [schadokar/etherscan-react](https://github.com/schadokar/etherscan-react)
+1. ❗️ Closed issue [#5](https://github.com/schadokar/go-to-do-app/issues/5) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+2. 🗣 Commented on [#5](https://github.com/schadokar/go-to-do-app/issues/5) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+3. ❌ Closed PR [#4](https://github.com/schadokar/go-to-do-app/pull/4) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+4. 🗣 Commented on [#4](https://github.com/schadokar/go-to-do-app/issues/4) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
 <!--END_SECTION:activity-->
 </details>
 
