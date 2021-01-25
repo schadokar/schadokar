@@ -54,10 +54,10 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/schadokar/go-to-do-app/issues/5) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
-2. 🗣 Commented on [#5](https://github.com/schadokar/go-to-do-app/issues/5) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
-3. ❌ Closed PR [#4](https://github.com/schadokar/go-to-do-app/pull/4) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
-4. 🗣 Commented on [#4](https://github.com/schadokar/go-to-do-app/issues/4) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+1. 🗣 Commented on [#2](https://github.com/schadokar/go-postgres/issues/2) in [schadokar/go-postgres](https://github.com/schadokar/go-postgres)
+2. 🗣 Commented on [#2](https://github.com/schadokar/go-postgres/issues/2) in [schadokar/go-postgres](https://github.com/schadokar/go-postgres)
+3. ❗️ Closed issue [#5](https://github.com/schadokar/go-to-do-app/issues/5) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+4. 🗣 Commented on [#5](https://github.com/schadokar/go-to-do-app/issues/5) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
 <!--END_SECTION:activity-->
 </details>
 
