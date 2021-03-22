@@ -54,10 +54,10 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#317](https://github.com/paritytech/substrate-api-sidecar/issues/317) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
-2. ❗️ Closed issue [#2](https://github.com/schadokar/go-postgres/issues/2) in [schadokar/go-postgres](https://github.com/schadokar/go-postgres)
-3. 🗣 Commented on [#2](https://github.com/schadokar/go-postgres/issues/2) in [schadokar/go-postgres](https://github.com/schadokar/go-postgres)
-4. 🗣 Commented on [#2](https://github.com/schadokar/go-postgres/issues/2) in [schadokar/go-postgres](https://github.com/schadokar/go-postgres)
+1. 🎉 Merged PR [#1](https://github.com/schadokar/portfolio/pull/1) in [schadokar/portfolio](https://github.com/schadokar/portfolio)
+2. 💪 Opened PR [#1](https://github.com/schadokar/portfolio/pull/1) in [schadokar/portfolio](https://github.com/schadokar/portfolio)
+3. 🗣 Commented on [#317](https://github.com/paritytech/substrate-api-sidecar/issues/317) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
+4. ❗️ Closed issue [#2](https://github.com/schadokar/go-postgres/issues/2) in [schadokar/go-postgres](https://github.com/schadokar/go-postgres)
 <!--END_SECTION:activity-->
 </details>
 
