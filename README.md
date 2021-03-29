@@ -54,10 +54,10 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/schadokar/portfolio/pull/1) in [schadokar/portfolio](https://github.com/schadokar/portfolio)
-2. 💪 Opened PR [#1](https://github.com/schadokar/portfolio/pull/1) in [schadokar/portfolio](https://github.com/schadokar/portfolio)
-3. 🗣 Commented on [#317](https://github.com/paritytech/substrate-api-sidecar/issues/317) in [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar)
-4. ❗️ Closed issue [#2](https://github.com/schadokar/go-postgres/issues/2) in [schadokar/go-postgres](https://github.com/schadokar/go-postgres)
+1. 🎉 Merged PR [#6](https://github.com/schadokar/go-to-do-app/pull/6) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+2. ❌ Closed PR [#7](https://github.com/schadokar/go-to-do-app/pull/7) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+3. 🗣 Commented on [#7](https://github.com/schadokar/go-to-do-app/issues/7) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+4. 🎉 Merged PR [#8](https://github.com/schadokar/go-to-do-app/pull/8) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
 <!--END_SECTION:activity-->
 </details>
 
