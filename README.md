@@ -54,10 +54,10 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/schadokar/docker-ethereum/pull/3) in [schadokar/docker-ethereum](https://github.com/schadokar/docker-ethereum)
-2. 🎉 Merged PR [#2](https://github.com/schadokar/etherscan-react/pull/2) in [schadokar/etherscan-react](https://github.com/schadokar/etherscan-react)
-3. 🎉 Merged PR [#6](https://github.com/schadokar/go-to-do-app/pull/6) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
-4. ❌ Closed PR [#7](https://github.com/schadokar/go-to-do-app/pull/7) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
+1. 🎉 Merged PR [#2](https://github.com/schadokar/coffee-hai/pull/2) in [schadokar/coffee-hai](https://github.com/schadokar/coffee-hai)
+2. 🎉 Merged PR [#3](https://github.com/schadokar/docker-ethereum/pull/3) in [schadokar/docker-ethereum](https://github.com/schadokar/docker-ethereum)
+3. 🎉 Merged PR [#2](https://github.com/schadokar/etherscan-react/pull/2) in [schadokar/etherscan-react](https://github.com/schadokar/etherscan-react)
+4. 🎉 Merged PR [#6](https://github.com/schadokar/go-to-do-app/pull/6) in [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app)
 <!--END_SECTION:activity-->
 </details>
 
