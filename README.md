@@ -1,38 +1,34 @@
-### Hi, I'm Shubham Chadokar 👋
+### Hi, I'm Shubham 👋
 
-**Staff-track backend engineer · Go · Distributed systems · System design**
+I've been writing Go for 7+ years. Most of that time has gone into backend platforms, the kind where one bad design choice ships a 2am page to someone six months later. Currently a Senior Software Engineer at Infoblox; 10 years in the industry overall.
 
-I rewrite over-engineered platforms into simpler, faster systems. 10 years in backend — most of it in Go, building services that run at scale.
+A few things I've worked on that I'm proud of:
 
-Some of what that's looked like:
+- At Infoblox, took a Cloud Data Connector platform that had grown into 20 microservices and collapsed it down to 5. Mostly by deleting code and arguing about ownership.
+- Caught a Kafka topology that would have exploded into ~1M topics at 10K-customer scale. Redesigned it to ~10K topics with per-customer isolation and a zero-downtime migration. Topic-explosion incidents are not fun.
+- Designed the billing engine at Kaleyra. About a billion transactions a day at 10K RPS, 60% faster and 30% cheaper than what it replaced.
+- Rewrote a flaky Node chat platform from scratch in Go and moved SQL to MongoDB so the schema would stop fighting us.
+- Owned a platform-wide SSO gateway (Keycloak) where any failure meant the whole company was down. It didn't fail.
+- Killed a recurring MongoDB file-descriptor outage (2-3/month at peak) with a tier-based collection model across ~10 services and 100K+ collections.
 
-- Consolidated **20 microservices → 5** modular Go components on the Cloud Data Connector platform at Infoblox.
-- Redesigned a Kafka topology before it blew up — **1M projected topics → 10K** (100× reduction), per-customer isolation, zero-downtime migration path.
-- Designed a billing engine in Go doing **~1B transactions/day at 10K RPS** — 60% faster, 30% cheaper.
-- Rewrote a broken Node chat platform from scratch in Go, migrated SQL → MongoDB, killed a class of runtime errors at scale.
-- Owned a platform-wide **SSO gateway** (Keycloak) — zero-tolerance auth path, zero production incidents on rollout.
-- Cut MongoDB file-descriptor outages (2–3/month) by designing a **tier-based collection model** across 10 services and 100K+ collections.
+### What I'm into right now
 
-### 🛠️ What I'm building & writing about
+- **Infoblox CDC**: Go services on Kubernetes, Kafka pipelines, Postgres, observability via Grafana.
+- [**Munshiji**](https://munshiji.xyz): [Under Development] an open-source, self-hosted personal finance dashboard for India with proper support for EPF, NPS, PPF, SSY, and 13+ Indian account types. Go 1.24, Next.js, SQLite/Postgres, Docker. I wanted one and there wasn't a good one.
+- Internal LLM agents for the boring stuff: PR review, deployment PRs, sprint retros.
+- Writing Go and distributed-systems posts on [schadokar.dev](https://schadokar.dev).
+- Talks: [DockerCon 2022](https://youtu.be/HEjGn3CQ1Ms), London Gophers, Pune Gophers.
+- Wrote an eBook a while back: [*Playtime with Hyperledger Composer*](https://schadokar.github.io/playtime-with-hyperledger-composer/).
 
-- 🔭 **Infoblox – Cloud Data Connector**: Go services on Kubernetes, Kafka pipelines, Postgres, Grafana-driven observability.
-- 🧮 [**Munshiji**](https://munshiji.xyz) — open-source, self-hosted personal finance dashboard for India (Go 1.24, Next.js, SQLite/Postgres, Docker). First-class EPF, NPS, PPF, SSY and 13+ Indian account types.
-- 🤖 Internal LLM agents for PR review, deployment PRs, and sprint retros — saving ~2 hrs/engineer/week.
-- ✍️ Writing Go and distributed-systems deep-dives on [schadokar.dev](https://schadokar.dev).
-- 🎤 Past speaker: [**DockerCon 2022**](https://youtu.be/HEjGn3CQ1Ms), London Gophers, Pune Gophers.
-- 📚 Author of [*Playtime with Hyperledger Composer*](https://schadokar.github.io/playtime-with-hyperledger-composer/).
+### Stack
 
-### 🧰 Stack I work in
+Mostly Go these days. gRPC, Kafka, Kubernetes, Postgres. Also MongoDB, Redis, RabbitMQ, Keycloak, Docker, AWS, GCP, Grafana. When I touch frontends it's Next.js or React with TypeScript.
 
-**Primary:** Go · gRPC · Kafka · Kubernetes · PostgreSQL
-**Also:** MongoDB · Redis · RabbitMQ · Keycloak · Docker · AWS · GCP · Grafana
-**Frontends I ship:** Next.js · React · TypeScript
+### Stuff I like thinking about
 
-### 🧠 Areas I think (and write) about
+How to simplify systems that grew too complex. When to rewrite vs refactor. Multi-tenancy and isolation. Kafka topology under customer growth. Zero-downtime migrations. Making observability good enough that someone wakes up before a customer does.
 
-System simplification · Architecture consolidation · Legacy rewrites · High-throughput pipelines · Multi-tenancy & isolation · Kafka topology design · Zero-downtime migrations · Production observability · Technical leadership
-
-### 📕 Latest Blog Posts
+### 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -43,7 +39,7 @@ System simplification · Architecture consolidation · Legacy rewrites · High-t
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more on schadokar.dev](https://schadokar.dev)
+More at [schadokar.dev](https://schadokar.dev).
 
 ### Connect
 
@@ -55,7 +51,7 @@ System simplification · Architecture consolidation · Legacy rewrites · High-t
 <br />
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#78](https://github.com/kylemanna/docker-bitcoind/issues/78) in [kylemanna/docker-bitcoind](https://github.com/kylemanna/docker-bitcoind)
