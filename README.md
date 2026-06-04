@@ -1,15 +1,36 @@
-### Hello Everyone 👋. I am Shubham Chadokar, a Software developer.
+### Hi, I'm Shubham Chadokar 👋
 
-I am in the Software industry for 4+ years. I love to document all my learnings as articles and tutorials in [my blog](https://schadokar.dev).  
-I majorly write on Golang and Nodejs.
-Recently, I wrote an ebook on Hyperledger Composer. It is free and available in the PDF format. Go have [a look at it](https://schadokar.dev/ebooks/).
+**Staff-track backend engineer · Go · Distributed systems · System design**
 
-- 🔭 I’m currently working on Serverless to write blogs.
-- 🌱 I’m currently learning serverless and data structures.
-- 👯 I’m looking to collaborate on Golang Projects.
-- 🤔 I’m looking for help with Golang project structure.
-- 💬 Ask me about blog writing.
-- 📫 How to reach me: Check the Connect with me section.
+I rewrite over-engineered platforms into simpler, faster systems. 10 years in backend — most of it in Go, building services that run at scale.
+
+Some of what that's looked like:
+
+- Consolidated **20 microservices → 5** modular Go components on the Cloud Data Connector platform at Infoblox.
+- Redesigned a Kafka topology before it blew up — **1M projected topics → 10K** (100× reduction), per-customer isolation, zero-downtime migration path.
+- Designed a billing engine in Go doing **~1B transactions/day at 10K RPS** — 60% faster, 30% cheaper.
+- Rewrote a broken Node chat platform from scratch in Go, migrated SQL → MongoDB, killed a class of runtime errors at scale.
+- Owned a platform-wide **SSO gateway** (Keycloak) — zero-tolerance auth path, zero production incidents on rollout.
+- Cut MongoDB file-descriptor outages (2–3/month) by designing a **tier-based collection model** across 10 services and 100K+ collections.
+
+### 🛠️ What I'm building & writing about
+
+- 🔭 **Infoblox – Cloud Data Connector**: Go services on Kubernetes, Kafka pipelines, Postgres, Grafana-driven observability.
+- 🧮 [**Munshiji**](https://munshiji.xyz) — open-source, self-hosted personal finance dashboard for India (Go 1.24, Next.js, SQLite/Postgres, Docker). First-class EPF, NPS, PPF, SSY and 13+ Indian account types.
+- 🤖 Internal LLM agents for PR review, deployment PRs, and sprint retros — saving ~2 hrs/engineer/week.
+- ✍️ Writing Go and distributed-systems deep-dives on [schadokar.dev](https://schadokar.dev).
+- 🎤 Past speaker: [**DockerCon 2022**](https://youtu.be/HEjGn3CQ1Ms), London Gophers, Pune Gophers.
+- 📚 Author of [*Playtime with Hyperledger Composer*](https://schadokar.github.io/playtime-with-hyperledger-composer/).
+
+### 🧰 Stack I work in
+
+**Primary:** Go · gRPC · Kafka · Kubernetes · PostgreSQL
+**Also:** MongoDB · Redis · RabbitMQ · Keycloak · Docker · AWS · GCP · Grafana
+**Frontends I ship:** Next.js · React · TypeScript
+
+### 🧠 Areas I think (and write) about
+
+System simplification · Architecture consolidation · Legacy rewrites · High-throughput pipelines · Multi-tenancy & isolation · Kafka topology design · Zero-downtime migrations · Production observability · Technical leadership
 
 ### 📕 Latest Blog Posts
 
@@ -20,39 +41,22 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 - [Secure Your Api Using Jwt in Golang](https://schadokar.dev/posts/secure-your-api-using-jwt-in-golang/)
 - [Create a Color Cli in Golang](https://schadokar.dev/posts/create-a-color-cli-in-golang/)
 
-➡️ [more blog posts...](https://schadokar.dev)
+<!-- BLOG-POST-LIST:END -->
 
-### Connect with me:
+➡️ [more on schadokar.dev](https://schadokar.dev)
+
+### Connect
 
 [<img align="left" alt="schadokar.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="schadokar1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="schadokar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="schadokar | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="schadokar.dev" width="22px" src="https://simpleicons.org/icons/serverless.svg" />][website]
-[<img align="left" alt="schadokar.dev" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
-[<img align="left" alt="schadokar.dev" width="22px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][website]
-[<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
-[<img align="left" alt="hlf" width="26px" src="https://github.com/schadokar/schadokar/blob/master/images/hyperledger_fabric.png" />][website]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-<br />
 <br />
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
+  <summary>⚡ Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#78](https://github.com/kylemanna/docker-bitcoind/issues/78) in [kylemanna/docker-bitcoind](https://github.com/kylemanna/docker-bitcoind)
 2. 🎉 Merged PR [#3](https://github.com/schadokar/coffee-hai/pull/3) in [schadokar/coffee-hai](https://github.com/schadokar/coffee-hai)
@@ -67,7 +71,8 @@ Recently, I wrote an ebook on Hyperledger Composer. It is free and available in 
 
 <br />
 <br />
-  
+
 [website]: https://schadokar.dev
 [twitter]: https://twitter.com/schadokar1
 [linkedin]: https://linkedin.com/in/schadokar
+[medium]: https://medium.com/@schadokar
