@@ -28,16 +28,6 @@ Mostly Go these days. gRPC, Kafka, Kubernetes, Postgres. Also MongoDB, Redis, Ra
 
 How to simplify systems that grew too complex. When to rewrite vs refactor. Multi-tenancy and isolation. Kafka topology under customer growth. Zero-downtime migrations. Making observability good enough that someone wakes up before a customer does.
 
-### 📕 Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Create a Serverless Application in Golang With AWS](https://schadokar.dev/posts/create-a-serverless-application-in-golang-with-aws/)
-- [Create your first Serverless application in Nodejs with AWS](https://schadokar.dev/posts/create-your-first-serverless-application/)
-- [Secure Your Api Using Jwt in Golang](https://schadokar.dev/posts/secure-your-api-using-jwt-in-golang/)
-- [Create a Color Cli in Golang](https://schadokar.dev/posts/create-a-color-cli-in-golang/)
-
-<!-- BLOG-POST-LIST:END -->
 
 More at [schadokar.dev](https://schadokar.dev).
 
@@ -48,24 +38,6 @@ More at [schadokar.dev](https://schadokar.dev).
 [<img align="left" alt="schadokar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="schadokar | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-<br />
-
-<details>
-  <summary>⚡ Recent GitHub activity</summary>
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/kylemanna/docker-bitcoind/issues/78) in [kylemanna/docker-bitcoind](https://github.com/kylemanna/docker-bitcoind)
-2. 🎉 Merged PR [#3](https://github.com/schadokar/coffee-hai/pull/3) in [schadokar/coffee-hai](https://github.com/schadokar/coffee-hai)
-3. 🎉 Merged PR [#2](https://github.com/schadokar/coffee-hai/pull/2) in [schadokar/coffee-hai](https://github.com/schadokar/coffee-hai)
-4. 🎉 Merged PR [#3](https://github.com/schadokar/docker-ethereum/pull/3) in [schadokar/docker-ethereum](https://github.com/schadokar/docker-ethereum)
-<!--END_SECTION:activity-->
-</details>
-
-<br />
-
-<img align="left" alt="schadokar's Github Stats" src="https://github-readme-stats.schadokar.vercel.app/api?username=schadokar&show_icons=true&hide_border=true" />
-
-<br />
 <br />
 
 [website]: https://schadokar.dev
